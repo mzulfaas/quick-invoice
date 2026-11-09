@@ -6,14 +6,16 @@
 [![Flutter Web](https://img.shields.io/badge/Flutter-3.35-02569B?logo=flutter&logoColor=white)](https://flutter.dev)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Privacy: 100% Client-Side](https://img.shields.io/badge/Privacy-100%25%20Client--Side-10B981)](#privacy-guarantee)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?logo=vercel)](https://quickinvoice-app.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-black?logo=github)](https://mzulfaas.github.io/quick-invoice/)
 
 ---
+
+![QuickInvoice Preview](https://raw.githubusercontent.com/mzulfaas/quick-invoice/main/public/preview.png)
 
 ## 🚀 Live Demo
 
 Try the live Flutter Web application right in your browser:  
-🔗 **[https://quickinvoice-app.vercel.app](https://quickinvoice-app.vercel.app)**
+🔗 **[https://mzulfaas.github.io/quick-invoice/](https://mzulfaas.github.io/quick-invoice/)**
 
 ---
 
