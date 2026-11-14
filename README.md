@@ -10,12 +10,12 @@
 
 ---
 
-![QuickInvoice Preview](https://raw.githubusercontent.com/mzulfaas/quick-invoice/main/public/preview.png)
+## 🎬 Live Demo & Video Showcase
 
-## 🚀 Live Demo
+![QuickInvoice Demo Showcase](https://raw.githubusercontent.com/mzulfaas/quick-invoice/main/public/demo.gif)
 
-Test the live Flutter Web application directly in your browser:  
-🔗 **[https://mzulfaas.github.io/quick-invoice/](https://mzulfaas.github.io/quick-invoice/)**
+> 📹 **High-Definition Video**: [quickinvoice_demo_showcase.mp4](quickinvoice_demo_showcase.mp4) (Watch raw walkthrough in GitHub video player)  
+> 🔗 **Interactive Web App**: [https://mzulfaas.github.io/quick-invoice/](https://mzulfaas.github.io/quick-invoice/)
 
 ---
 
